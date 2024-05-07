@@ -1,0 +1,4 @@
+User-agent: *
+allow: /admin/
+allow: /login
+allow: /file-manager
